@@ -21,5 +21,5 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
+![quote=""We build too many walls and not enough bridges."Isaac Newton"](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
 
